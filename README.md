@@ -18,7 +18,7 @@ While the following code is not:
 y = 10;
 ```
 
-This is because if `x` changed value, `y` would only continue to be twice `x` in the first example, but not in the second.
+This is because in the first example, if `x` changed value, `y` would continue to be twice `x`, but in the second example, `y` would always be `10`.
 
 
 ### Tasks
