@@ -13,7 +13,7 @@ You'll:
 - Run `jest --watch-all`.
 - Write your code in the section below "YOUR CODE BELOW" in `main.js`.
 - Watch as your tests turn green.
-- Add a link to your repo as your assignemnt submission when you're done!
+- Add a link to your repo as your assignment submission when you're done!
 
 ### Guidelines
 
@@ -33,17 +33,17 @@ This is because in the first example, if `x` changed value, `y` would continue t
 
 ### Tasks
 
-- Create a variable called myFirstName. Assign myFirstName a string value that represents your first name.
-- Create a variable called myLastName. Assign myLastName a string value that represents your last name.
-- Create a variable called myBestFriend. Assign myBestFriend a string value that represents your best friend name.
-- Create a variable called mySentence. Assign mySentence a string that includes the variables from the previous three tasks.
-- Create another variable called myFavoriteNum. Assign myFavoriteNum a number value that represents your favorite number!
-- Create another variable called myMentalAge. Assign myMentalAge a number value that represents your mental age!
-- Create another variable called myHeight. Assign myHeight a number value that represents your height in inches or centimeters!
-- Create another variable called myFavoriteYear. Assign myFavoriteYear a number value that represents your favorite year!
+- Create a variable called `myFirstName`. Assign `myFirstName` a string value that represents your first name.
+- Create a variable called `myLastName`. Assign `myLastName` a string value that represents your last name.
+- Create a variable called `myBestFriend`. Assign `myBestFriend` a string value that represents your best friend name.
+- Create a variable called `mySentence`. Assign `mySentence` a string that includes the variables from the previous three tasks.
+- Create another variable called `myFavoriteNum`. Assign `myFavoriteNum` a number value that represents your favorite number!
+- Create another variable called `myMentalAge`. Assign `myMentalAge` a number value that represents your mental age!
+- Create another variable called `myHeight`. Assign `myHeight` a number value that represents your height in inches or centimeters!
+- Create another variable called `myFavoriteYear`. Assign `myFavoriteYear` a number value that represents your favorite year!
 
 ### Tasks that use MATH
 
-- Create another variable called mySum. Set it equal to the result of three plus one thousand nine hundred eighteen plus twenty-four plus one. Calculate it in code!
-- Create another variable called myProduct. Set it equal to the result of two hundred thirty-two times forty-three divided by two plus four (the operations should be written in that order!). Calculate it in code!
-- Create another variable called heightAndAge. Set it equal to the sum of your mental age and height. Calculate it in code!
+- Create another variable called `mySum`. Set it equal to the result of three plus one thousand nine hundred eighteen plus twenty-four plus one. Calculate it in code!
+- Create another variable called `myProduct`. Set it equal to the result of two hundred thirty-two times forty-three divided by two plus four (the operations should be written in that order!). Calculate it in code!
+- Create another variable called `heightAndAge`. Set it equal to the sum of your mental age and height. Calculate it in code!
