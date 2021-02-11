@@ -1,10 +1,6 @@
 /******************
- * YOUR CODE HERE *
+ * YOUR CODE BELOW *
  ******************/
-
-
- 
-
 
 /*********************************************************************************************************************
 
@@ -14,54 +10,53 @@
 
  *********************************************************************************************************************/
 
-if (typeof myFirstName === 'undefined') {
+if (typeof myFirstName === "undefined") {
   myFirstName = undefined;
 }
 
-if (typeof myLastName === 'undefined') {
+if (typeof myLastName === "undefined") {
   myLastName = undefined;
 }
 
-if (typeof myBestFriend === 'undefined') {
+if (typeof myBestFriend === "undefined") {
   myBestFriend = undefined;
 }
 
-if (typeof mySentence === 'undefined') {
+if (typeof mySentence === "undefined") {
   mySentence = undefined;
 }
 
-if (typeof myFavoriteNum === 'undefined') {
+if (typeof myFavoriteNum === "undefined") {
   myFavoriteNum = undefined;
 }
 
-if (typeof myMentalAge === 'undefined') {
+if (typeof myMentalAge === "undefined") {
   myMentalAge = undefined;
 }
 
-if (typeof myHeight === 'undefined') {
+if (typeof myHeight === "undefined") {
   myHeight = undefined;
 }
 
-if (typeof myFavoriteYear === 'undefined') {
+if (typeof myFavoriteYear === "undefined") {
   myFavoriteYear = undefined;
 }
 
-if (typeof mySum === 'undefined') {
+if (typeof mySum === "undefined") {
   mySum = undefined;
 }
 
-if (typeof mySum === 'undefined') {
+if (typeof mySum === "undefined") {
   mySum = undefined;
 }
 
-if (typeof myProduct === 'undefined') {
+if (typeof myProduct === "undefined") {
   myProduct = undefined;
 }
 
-if (typeof myHeightAndAge === 'undefined') {
+if (typeof myHeightAndAge === "undefined") {
   myHeightAndAge = undefined;
 }
-
 
 module.exports = {
   myFirstName,
@@ -75,4 +70,4 @@ module.exports = {
   mySum,
   myProduct,
   myHeightAndAge,
-}
+};
