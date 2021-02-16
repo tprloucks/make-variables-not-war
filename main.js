@@ -2,6 +2,18 @@
  * YOUR CODE BELOW *
  ******************/
 
+let myFirstName = "Michael";
+let myLastName = "Loucks";
+let myBestFriend= "Taft";
+let mySentence = "Michael and Taft are best friends!";
+let myFavoriteNum = 11;
+let myMentalAge = 100;
+let myHeight = 83;
+let myFavoriteYear= 1972;
+let mySum = 3 + 1918 + 24 + 1;
+let myProduct = 232 * 43 / 2 + 4;
+let myHeightAndAge = myMentalAge + myHeight;
+
 
 
 
